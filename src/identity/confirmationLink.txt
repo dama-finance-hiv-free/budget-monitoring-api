@@ -1,0 +1,1 @@
+http://localhost:3000/account/confirm-email?token=CfDJ8AdW4uqONddAi6dtYVuA+NbJHkedL24d9tiTgcbu2cxXk9hqtLPWYDYSZ7G/9IoybN7vSaoF1oeSHQ1mLaRtuDr8/5rjunnDL3CHHD0nHQNGAuRwjyC/NkcR+hd9bslnabN+9N/lZqtNYyc+KSR8w+LAyIGTaNaplGkiGWL+/iDtfsket5z1npWh07m20catMWbvFDfMAHMJZYTuB0Ab6tTvnjXhbmpB8gjxTjqQycYPvDn2Qh2rErhLlQDAoA+ZSA==&email=bursar@gmail.com
